@@ -29,15 +29,15 @@
 ### 使用说明
 #### 一、新增模块：  
 ![](https://testerhome.com/uploads/photo/2019/fb944cfb-e701-4f3c-9cf0-dbf965e8a7f1.gif!large)
- 1.点击新增模块按钮，输入模块跳转链接，一般对应产品原型的地址，例如：【https://oh2e7m.axshare.com】
- 2.输入模块名称，例如：【一. 登录界面】
- 3.输入测试场景点，例如：【手机号丨获取验证码丨更换手机号丨登录】
- 4.输入图片地址，例如：【https://alipic.lanhuapp.com/SketchCoverf0707de649e522dd7bc39b0d9df53f11】
- 5.点击确认按钮，即可新增模块成功，自动生成UI效果图和场景点编辑框
+ 1. 点击新增模块按钮，输入模块跳转链接，一般对应产品原型的地址，例如：【https://oh2e7m.axshare.com】
+ 2. 输入模块名称，例如：【一. 登录界面】
+ 3. 输入测试场景点，例如：【手机号丨获取验证码丨更换手机号丨登录】
+ 4. 输入图片地址，例如：【https://alipic.lanhuapp.com/SketchCoverf0707de649e522dd7bc39b0d9df53f11】
+ 5. 点击确认按钮，即可新增模块成功，自动生成UI效果图和场景点编辑框
  - PS：编辑测试场景点时，没一行需要以【；】结尾，最后一行需要加空格【； 】  
 
  #### 二、删除模块：
-![](https://testerhome.com/uploads/photo/2019/5c2080bd-ccc8-4784-b20b-838312bdb05b.gif!large)
+![](https://images.gitee.com/uploads/images/2019/0808/154356_ea10dfac_1325509.gif)
   1.点击删除模块按钮，选择要删除的模块，例如：【全部】或【XXX模块】
   2.点击确认按钮，即可删除模块成功，删除后页面移除该模块
 
@@ -48,7 +48,7 @@
  - PS：Excel默认保存成.xls格式，需要重新另存成.xlsx格式
 
 #### 三、读取模块：
-![](https://testerhome.com/uploads/photo/2019/7bbde3cc-b84c-4453-af04-5818a62ffae5.gif!large)
+![](https://images.gitee.com/uploads/images/2019/0808/154355_312597f0_1325509.gif)
  1.点击读取模块按钮，再点击选择文件按钮，选择要读取的Excel文件，例如：【一. 登录界面.xlsx】
  2.读取成功后会自动获取所有模块，选择要读取的全部或单个模块，例如：【全部】
  3.点击确认按钮，即可读取模块成功，读取成功后页面会自动生成该模块内容
@@ -56,7 +56,7 @@
  ---
 ### 七、感谢
 #### 如果您觉得这个框架对您有用，您可以捐赠下我，让我有理由继续下去，非常感谢。
-![](https://testerhome.com/uploads/photo/2018/26d494a6-7b4f-4b69-8db1-0a3b45f886b7.png!large)
+![](https://images.gitee.com/uploads/images/2019/0808/154355_a1e644e2_1325509.png)
 
 **非常感谢您花费时间阅读，祝您在这里记录、阅读、分享愉快！**
 **欢迎留言评论，有问题也可以联系我或者加群交流...**
