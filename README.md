@@ -38,8 +38,8 @@
 
  #### 二、删除模块：
 ![](https://testerhome.com/uploads/photo/2019/5c2080bd-ccc8-4784-b20b-838312bdb05b.gif!large)
- 1.点击删除模块按钮，选择要删除的模块，例如：【全部】或【XXX模块】
- 2.点击确认按钮，即可删除模块成功，删除后页面移除该模块
+  1.点击删除模块按钮，选择要删除的模块，例如：【全部】或【XXX模块】
+  2.点击确认按钮，即可删除模块成功，删除后页面移除该模块
 
 #### 三、保存模块：
 ![](https://testerhome.com/uploads/photo/2019/da6b4a14-b9a1-4c20-940f-c70804b8bf98.gif!large)
